@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("TerrariaServerLauncher")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Eidos Montreal")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("TerrariaServerLauncher")]
-[assembly: AssemblyCopyright("Copyright © Eidos Montreal 2012")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
